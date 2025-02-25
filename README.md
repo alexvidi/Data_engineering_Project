@@ -36,7 +36,7 @@ Data_engineering_Project/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/alexvidi/Data_engineering_Project.git
+   git clone https://github.com/alexvidi/Project-ETL-kafka-Postgres-Docker.git
    cd Data_engineering_Project
    ```
 
