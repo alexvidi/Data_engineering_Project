@@ -1,15 +1,19 @@
-# Virtual environment
-venv/
-
-# Python cache files
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Environment variables
+# Virtual Environment
+venv/
 .env
 
-# Log files
+# Logs
 *.log
 
-# System files
-.DS_Store
+# Docker
+*.pid
+
+# VSCode settings
+.vscode/
+
